@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Nkosana Maluleke Weather App</string>
+    <string name="title_activity_location_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="city_country">location</string>
+    <string name="date_today">date</string>
+    <string name="current_temperature">0</string>
+    <string name="weather_information">Weather Information</string>
+    <string name="day_of_week">Mon</string>
+
+
+    <string name="location_hints">Type city or postcode</string>
+    <string name="location_example">Example Malmo, Sweden</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="stored_location">You can only store 5 locations</string>
+    <string name="permission_notice">This permission is important but you can as well set your location on Location page</string>
+    <string name="no_location_notice">We could not get your location, please swipe down to refresh</string>
+    <string name="go_to_location">Go to location setting</string>
+    <string name="enter_a_city">Enter a City Name</string>
+    <string name="add_city">Change City</string>
+    <string name="title_activity_show_map">Map</string>
+
+    <string name="change_location">Change Location</string>
+    <string name="view_locations">View favourite locations</string>
+    <string name="view_map_locations">View favourite map locations</string>
+    <string name="save">Save</string>
+
+
+    <string name="api_base_url">https://api.openweathermap.org/data/2.5/weather?</string>
+    <string name="api_5day_url">https://api.openweathermap.org/data/2.5/forecast?q=</string>
+    <string name="open_weather_api_key">APPID=5a13b531f149ab5427c8bab32118b8c7</string>
+    <string name="unit">units=metric</string>
+
+
+    <string name="label_temp_min">Min</string>
+    <string name="label_temp_current">Current</string>
+    <string name="label_temp_max">Max</string>
+    <string name="temp_min">min temp</string>
+    <string name="temp_current">current temp</string>
+    <string name="temp_max">max temp</string>
+    <string name="title_activity_change_location">ChangeLocationActivity</string>
+    <string name="title_activity_view_locations">ViewLocationsActivity</string>
+
+
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="sunday">SUN</string>
+
+
+
+</resources>
